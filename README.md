@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuvrajDhawaleJava
+- 👋 Hi, I’m @Yuvraj Dhawale
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning java and frameworks
 - 💞️ I’m looking to collaborate on ...
